@@ -1,0 +1,14 @@
+C:\Users\SINOVA Covid\Desktop\proyectos\tareainterface\tareainterface\obj\Debug\net8.0\tareainterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SINOVA Covid\Desktop\proyectos\tareainterface\tareainterface\obj\Debug\net8.0\tareainterface.AssemblyInfoInputs.cache
+C:\Users\SINOVA Covid\Desktop\proyectos\tareainterface\tareainterface\obj\Debug\net8.0\tareainterface.AssemblyInfo.cs
+C:\Users\SINOVA Covid\Desktop\proyectos\tareainterface\tareainterface\obj\Debug\net8.0\tareainterface.csproj.CoreCompileInputs.cache
+C:\Users\SINOVA Covid\Desktop\proyectos\tareainterface\tareainterface\bin\Debug\net8.0\tareainterface.exe
+C:\Users\SINOVA Covid\Desktop\proyectos\tareainterface\tareainterface\bin\Debug\net8.0\tareainterface.deps.json
+C:\Users\SINOVA Covid\Desktop\proyectos\tareainterface\tareainterface\bin\Debug\net8.0\tareainterface.runtimeconfig.json
+C:\Users\SINOVA Covid\Desktop\proyectos\tareainterface\tareainterface\bin\Debug\net8.0\tareainterface.dll
+C:\Users\SINOVA Covid\Desktop\proyectos\tareainterface\tareainterface\bin\Debug\net8.0\tareainterface.pdb
+C:\Users\SINOVA Covid\Desktop\proyectos\tareainterface\tareainterface\obj\Debug\net8.0\tareainterface.dll
+C:\Users\SINOVA Covid\Desktop\proyectos\tareainterface\tareainterface\obj\Debug\net8.0\refint\tareainterface.dll
+C:\Users\SINOVA Covid\Desktop\proyectos\tareainterface\tareainterface\obj\Debug\net8.0\tareainterface.pdb
+C:\Users\SINOVA Covid\Desktop\proyectos\tareainterface\tareainterface\obj\Debug\net8.0\tareainterface.genruntimeconfig.cache
+C:\Users\SINOVA Covid\Desktop\proyectos\tareainterface\tareainterface\obj\Debug\net8.0\ref\tareainterface.dll
